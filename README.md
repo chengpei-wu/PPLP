@@ -36,19 +36,10 @@ python main.py # evaluate model on TUDataset
 
 ## Cite
 
-This paper has been formally published: https://ieeexplore.ieee.org/document/10197169
+This paper has been accepted by [*IEEE International Conference on Systems, Man, and Cybernetics* (*SMC*) 2023](https://ieeesmc2023.org/).
 
 Please cite our paper if you use this code in your research work.
 
 ```tex
-@article{Wu2023TCASI,
-  author={Wu, Chengpei and Lou, Yang and Wang, Lin and Li, Junli and Li, Xiang and Chen,   Guanrong},
-  journal={IEEE Transactions on Circuits and Systems I: Regular Papers}, 
-  title={SPP-CNN: An Efficient Framework for Network Robustness Prediction}, 
-  year={2023},
-  volume={},
-  number={},
-  pages={1-13},
-  doi={10.1109/TCSI.2023.3296602}
-}
+The formal citation format will be updated after the paper is published.
 ```
